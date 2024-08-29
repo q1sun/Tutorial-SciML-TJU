@@ -2,9 +2,9 @@
 
 ## Contents
 - [Survey Papers](#surveys)
-<!-- - [Software](#software) -->
 - [Courses/Videos](#courses)
 - [Conferences/Workshops](#conferences)
+- <!-- - [Software](#software) -->
 
 <a name="surveys"></a>
 ## Survey Papers
