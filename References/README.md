@@ -2,9 +2,8 @@
 
 ## Contents
 - [Survey Papers](#surveys)
-% - [Software](#software)
-%  - [Pytorch](#software-pytorch)
-- [Videos](#videos)
+<!-- - [Software](#software) -->
+<!-- - [Videos](#videos) -->
 - [Conferences/Workshops](#conferences)
 
 <a name="surveys"></a>
