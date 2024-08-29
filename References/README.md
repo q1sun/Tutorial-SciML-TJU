@@ -3,7 +3,7 @@
 ## Contents
 - [Survey Papers](#surveys)
 <!-- - [Software](#software) -->
-<!-- - [Videos](#videos) -->
+- [Courses/Videos](#courses)
 - [Conferences/Workshops](#conferences)
 
 <a name="surveys"></a>
@@ -17,5 +17,7 @@
 
 - Machine learning for fluid mechanics [`pub`](https://www.annualreviews.org/content/journals/10.1146/annurev-fluid-010719-060214) <br> Steven L. Brunton, Bernd R. Noack, and Petros Koumoutsakos <br> _Annual Review of Fluid Mechanics (2020)_
 
+<a name="courses"></a>
+## Courses/Videos
 
-
+- AI in the Sciences and Engineering [`pub`]([https://www.nature.com/articles/s43588-024-00643-2](https://camlab.ethz.ch/teaching/ai-in-the-sciences-and-engineering-2024.html)) <br> Siddhartha Mishra & Benjamin Moseley <br> _ETH Z\''{u}rich (2024)_
