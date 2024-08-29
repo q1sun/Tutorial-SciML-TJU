@@ -4,7 +4,7 @@
 - [Survey Papers](#surveys)
 - [Courses/Videos](#courses)
 - [Conferences/Workshops](#conferences)
-- <!-- - [Software](#software) -->
+<!-- - [Software](#software) -->
 
 <a name="surveys"></a>
 ## Survey Papers
