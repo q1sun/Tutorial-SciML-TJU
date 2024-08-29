@@ -2,8 +2,8 @@
 
 ## Contents
 - [Survey Papers](#surveys)
-- [Software](#software)
-  - [Pytorch](#software-pytorch)
+% - [Software](#software)
+%  - [Pytorch](#software-pytorch)
 - [Videos](#videos)
 - [Conferences/Workshops](#conferences)
 
