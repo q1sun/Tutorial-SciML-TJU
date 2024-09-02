@@ -1,7 +1,7 @@
 # Tutorial-SciML
 Lecture Notes for Scientific Machine Learning at Tongji University, 2024
 
-第一章、数据驱动 v.s. 物理驱动（以阻尼简谐运动为例，包含答案）
+第一章、数据驱动 v.s. 物理驱动（以阻尼简谐运动为例，答案参见【教学课件】）
 
 1-1. 数据驱动的机器学习方法【教学课件】【课堂推导】
 
@@ -11,9 +11,9 @@ Lecture Notes for Scientific Machine Learning at Tongji University, 2024
 
 1-4. 训练神经网络的频率偏好【选讲】【课堂推导】
 
-第二章、椭圆型方程的机器学习求解（以 Poisson 方程为例，不包含答案）
+第二章、椭圆型方程的机器学习求解（以 Poisson 方程为例，若需要答案请联系助教）
 
-2-0. 最速降线问题及其求解【学生版本】【课堂推导】
+2-0. 最速降线问题及其求解【学生版本】
 
 2-1. 弹性力学及其变分原理【课堂推导】
 
@@ -25,7 +25,7 @@ Lecture Notes for Scientific Machine Learning at Tongji University, 2024
 
 2-5. 区域分解学习算法【选讲】【课堂推导】
 
-第三章、双曲型方程的机器学习求解（以 Burgers 方程为例，不包含答案）
+第三章、双曲型方程的机器学习求解（以 Burgers 方程为例，若需要答案请联系助教）
 
 3-1. 守恒律方程与激波刻画【课堂推导】
 
