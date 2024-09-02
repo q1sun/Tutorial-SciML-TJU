@@ -13,6 +13,8 @@ Lecture Notes for Scientific Machine Learning at Tongji University, 2024
 
 第二章、椭圆型方程的机器学习求解（以 Poisson 方程为例，不包含答案）
 
+2-0. 变分问题 - 最速降线【学生版本】【课堂推导】
+
 2-1. 弹性力学及其变分原理【课堂推导】
 
 2-2. 从有限元法到神经网络【课堂推导】
