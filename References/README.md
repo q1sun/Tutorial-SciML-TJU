@@ -20,4 +20,4 @@
 <a name="courses"></a>
 ## Courses/Videos
 
-- AI in the Sciences and Engineering [`pub`]([https://www.nature.com/articles/s43588-024-00643-2](https://camlab.ethz.ch/teaching/ai-in-the-sciences-and-engineering-2024.html)) <br> Siddhartha Mishra & Benjamin Moseley <br> _ETH Zurich (2024)_
+- AI in the Sciences and Engineering [`pub`](https://camlab.ethz.ch/teaching/ai-in-the-sciences-and-engineering-2024.html) <br> Siddhartha Mishra & Benjamin Moseley <br> _ETH Zurich (2024)_
